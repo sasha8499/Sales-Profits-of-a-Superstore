@@ -40,6 +40,5 @@ This project is an interactive Power BI dashboard built using the Superstore dat
 
 **Mohammad Khaja Pasha**  
 _Data Analyst | Power BI Enthusiast
-
 🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)* 
 ---
