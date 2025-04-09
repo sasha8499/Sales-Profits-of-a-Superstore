@@ -25,6 +25,7 @@ This project is an interactive Power BI dashboard built using the Superstore dat
 
 ## 📷 Dashboard Preview
 
+![Screenshot 2025-04-09 234046](https://github.com/user-attachments/assets/162ce35a-7fa6-46ef-bde1-493b2e09a687)
 
 
 ## 📌 Insights
