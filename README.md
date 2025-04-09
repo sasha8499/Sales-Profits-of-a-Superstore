@@ -13,6 +13,7 @@ This project is an interactive Power BI dashboard built using the Superstore dat
 - 🎯 Dynamic slicers for Region, Segment, Category, and Date
 
 ## 📁 Dataset
+- <a href =  "https://www.kaggle.com/datasets/vivek468/superstore-dataset-final" >Dataset</a>
 
 - **Source:** Sample Superstore dataset
 - **Columns used:** Order Date, Ship Date, Sales, Profit, Quantity, Discount, Category, Sub-Category, Segment, Region, etc.
